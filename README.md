@@ -19,6 +19,8 @@ Objectives:
 
 - Generate Synthetic Images: The script produces 64 random grayscale images, each of size 28x28 pixels.
 - Visualize Results: The images are displayed in an 8x8 grid, showcasing the variety of generated patterns as shown below as example;
+
+ # OUTPUT OF CODE / EXAMPLE OF CODE:
   ![executed output image](https://github.com/user-attachments/assets/a1395395-55ee-41e5-9de5-76615cafcf4d)
 
 
